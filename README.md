@@ -2,6 +2,10 @@
 
 This is a basic todo app built using React.js. It allows users to add, delete, and check off tasks from a list.
 
+# Try it out
+
+App hosted [here](https://yaret3000.github.io/my-react-todo-app/)
+
 ## Running the App
 
 1. Make sure you have Node.js and npm (Node Package Manager) installed on your machine. If you don't have them installed, you can download them from the [Node.js website](https://nodejs.org/).
