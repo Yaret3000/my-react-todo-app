@@ -2,7 +2,7 @@
 
 This is a basic todo app built using React.js. It allows users to add, delete, and check off tasks from a list.
 
-# Try it out
+## Try it out
 
 App hosted [here](https://yaret3000.github.io/my-react-todo-app/)
 
